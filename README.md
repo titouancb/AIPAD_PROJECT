@@ -36,6 +36,7 @@ Fundings : Grant from Inserm and the French Ministry of Health in the context of
 **Titouan Cabon**  
 Clinical Epidemiology and Health Data Research  
 Univ Rennes, EHESP, CNRS, Inserm, ARENES UMR 6051, RSMS U 1309, 35000 Rennes, France
+
 Contact : Titouan.cabon@ehesp.fr
 
 ## License
