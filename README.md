@@ -38,14 +38,18 @@ Access to SNDS data is regulated by French legislation and cannot be redistribut
 
 **Titouan Cabon**  
 Clinical Epidemiology and Health Data Research  
+
 Univ Rennes, EHESP, CNRS, Inserm, ARENES UMR 6051, RSMS U 1309, 35000 Rennes, France
 
 Contact : Titouan.cabon@ehesp.fr
 
 **Nolwenn LE MEUR, PhD, HDR**  
 Professor of Biostatistics, 
+
 Deputy Director of the Department of Quantitative Methods in Public Health (METIS)
+
 French School of Public Health (EHESP) in Rennes, France, and a researcher at the ARENES laboratory (UMR 6051)
+
 Univ Rennes, EHESP, CNRS, Inserm, ARENES UMR 6051, RSMS U 1309, 35000 Rennes, France
 
 Contact : Nolwenn.LeMeur-Rouillard@ehesp.fr
@@ -53,8 +57,9 @@ Contact : Nolwenn.LeMeur-Rouillard@ehesp.fr
 ## Funding
 Supported by:
 
-Inserm
-French Ministry of Health
+- Inserm
+
+- French Ministry of Health
 
 within the framework of the MESSIDORE 2023 call, operated by IReSP
 
